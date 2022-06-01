@@ -1,0 +1,96 @@
+C:\Users\Sipho Matshazi\Downloads\Assignment\Assignment\bin\Debug\net5.0\Assignment.exe
+C:\Users\Sipho Matshazi\Downloads\Assignment\Assignment\bin\Debug\net5.0\Assignment.deps.json
+C:\Users\Sipho Matshazi\Downloads\Assignment\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.json
+C:\Users\Sipho Matshazi\Downloads\Assignment\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.dev.json
+C:\Users\Sipho Matshazi\Downloads\Assignment\Assignment\bin\Debug\net5.0\Assignment.dll
+C:\Users\Sipho Matshazi\Downloads\Assignment\Assignment\bin\Debug\net5.0\ref\Assignment.dll
+C:\Users\Sipho Matshazi\Downloads\Assignment\Assignment\bin\Debug\net5.0\Assignment.pdb
+C:\Users\Sipho Matshazi\Downloads\Assignment\Assignment\obj\Debug\net5.0\Assignment.csproj.AssemblyReference.cache
+C:\Users\Sipho Matshazi\Downloads\Assignment\Assignment\obj\Debug\net5.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sipho Matshazi\Downloads\Assignment\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\Sipho Matshazi\Downloads\Assignment\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfo.cs
+C:\Users\Sipho Matshazi\Downloads\Assignment\Assignment\obj\Debug\net5.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Sipho Matshazi\Downloads\Assignment\Assignment\obj\Debug\net5.0\Assignment.dll
+C:\Users\Sipho Matshazi\Downloads\Assignment\Assignment\obj\Debug\net5.0\ref\Assignment.dll
+C:\Users\Sipho Matshazi\Downloads\Assignment\Assignment\obj\Debug\net5.0\Assignment.pdb
+C:\Users\Sipho Matshazi\Downloads\Assignment\Assignment\obj\Debug\net5.0\Assignment.genruntimeconfig.cache
+C:\Users\Sipho Matshazi\Downloads\Assignment-1\obj\Debug\net5.0\Assignment.csproj.AssemblyReference.cache
+C:\Users\Sipho Matshazi\Downloads\Assignment-1\obj\Debug\net5.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sipho Matshazi\Downloads\Assignment-1\obj\Debug\net5.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\Sipho Matshazi\Downloads\Assignment-1\obj\Debug\net5.0\Assignment.AssemblyInfo.cs
+C:\Users\Sipho Matshazi\Downloads\Assignment-1\obj\Debug\net5.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Sipho Matshazi\Downloads\Assignment-1\obj\Debug\net5.0\Assignment.dll
+C:\Users\Sipho Matshazi\Downloads\Assignment-1\obj\Debug\net5.0\ref\Assignment.dll
+C:\Users\Sipho Matshazi\Downloads\Assignment-1\obj\Debug\net5.0\Assignment.pdb
+C:\Users\Sipho Matshazi\Downloads\Assignment-1\bin\Debug\net5.0\Assignment.exe
+C:\Users\Sipho Matshazi\Downloads\Assignment-1\bin\Debug\net5.0\Assignment.deps.json
+C:\Users\Sipho Matshazi\Downloads\Assignment-1\bin\Debug\net5.0\Assignment.runtimeconfig.json
+C:\Users\Sipho Matshazi\Downloads\Assignment-1\bin\Debug\net5.0\Assignment.runtimeconfig.dev.json
+C:\Users\Sipho Matshazi\Downloads\Assignment-1\bin\Debug\net5.0\Assignment.dll
+C:\Users\Sipho Matshazi\Downloads\Assignment-1\bin\Debug\net5.0\ref\Assignment.dll
+C:\Users\Sipho Matshazi\Downloads\Assignment-1\bin\Debug\net5.0\Assignment.pdb
+C:\Users\Sipho Matshazi\Downloads\Assignment-1\obj\Debug\net5.0\Assignment.genruntimeconfig.cache
+C:\Users\Mandhla\Downloads\Assignment\bin\Debug\net5.0\Assignment.exe
+C:\Users\Mandhla\Downloads\Assignment\bin\Debug\net5.0\Assignment.deps.json
+C:\Users\Mandhla\Downloads\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.json
+C:\Users\Mandhla\Downloads\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.dev.json
+C:\Users\Mandhla\Downloads\Assignment\bin\Debug\net5.0\Assignment.dll
+C:\Users\Mandhla\Downloads\Assignment\bin\Debug\net5.0\ref\Assignment.dll
+C:\Users\Mandhla\Downloads\Assignment\bin\Debug\net5.0\Assignment.pdb
+C:\Users\Mandhla\Downloads\Assignment\obj\Debug\net5.0\Assignment.csproj.AssemblyReference.cache
+C:\Users\Mandhla\Downloads\Assignment\obj\Debug\net5.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mandhla\Downloads\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\Mandhla\Downloads\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfo.cs
+C:\Users\Mandhla\Downloads\Assignment\obj\Debug\net5.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Mandhla\Downloads\Assignment\obj\Debug\net5.0\Assignment.dll
+C:\Users\Mandhla\Downloads\Assignment\obj\Debug\net5.0\ref\Assignment.dll
+C:\Users\Mandhla\Downloads\Assignment\obj\Debug\net5.0\Assignment.pdb
+C:\Users\Mandhla\Downloads\Assignment\obj\Debug\net5.0\Assignment.genruntimeconfig.cache
+C:\Users\Mandhla\Downloads\Assignment-1\bin\Debug\net5.0\Assignment.exe
+C:\Users\Mandhla\Downloads\Assignment-1\bin\Debug\net5.0\Assignment.deps.json
+C:\Users\Mandhla\Downloads\Assignment-1\bin\Debug\net5.0\Assignment.runtimeconfig.json
+C:\Users\Mandhla\Downloads\Assignment-1\bin\Debug\net5.0\Assignment.runtimeconfig.dev.json
+C:\Users\Mandhla\Downloads\Assignment-1\bin\Debug\net5.0\Assignment.dll
+C:\Users\Mandhla\Downloads\Assignment-1\bin\Debug\net5.0\ref\Assignment.dll
+C:\Users\Mandhla\Downloads\Assignment-1\bin\Debug\net5.0\Assignment.pdb
+C:\Users\Mandhla\Downloads\Assignment-1\obj\Debug\net5.0\Assignment.csproj.AssemblyReference.cache
+C:\Users\Mandhla\Downloads\Assignment-1\obj\Debug\net5.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mandhla\Downloads\Assignment-1\obj\Debug\net5.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\Mandhla\Downloads\Assignment-1\obj\Debug\net5.0\Assignment.AssemblyInfo.cs
+C:\Users\Mandhla\Downloads\Assignment-1\obj\Debug\net5.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Mandhla\Downloads\Assignment-1\obj\Debug\net5.0\Assignment.dll
+C:\Users\Mandhla\Downloads\Assignment-1\obj\Debug\net5.0\ref\Assignment.dll
+C:\Users\Mandhla\Downloads\Assignment-1\obj\Debug\net5.0\Assignment.pdb
+C:\Users\Mandhla\Downloads\Assignment-1\obj\Debug\net5.0\Assignment.genruntimeconfig.cache
+C:\Users\Mandhla\Downloads\final\Assignment\bin\Debug\net5.0\Assignment.exe
+C:\Users\Mandhla\Downloads\final\Assignment\bin\Debug\net5.0\Assignment.deps.json
+C:\Users\Mandhla\Downloads\final\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.json
+C:\Users\Mandhla\Downloads\final\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.dev.json
+C:\Users\Mandhla\Downloads\final\Assignment\bin\Debug\net5.0\Assignment.dll
+C:\Users\Mandhla\Downloads\final\Assignment\bin\Debug\net5.0\ref\Assignment.dll
+C:\Users\Mandhla\Downloads\final\Assignment\bin\Debug\net5.0\Assignment.pdb
+C:\Users\Mandhla\Downloads\final\Assignment\obj\Debug\net5.0\Assignment.csproj.AssemblyReference.cache
+C:\Users\Mandhla\Downloads\final\Assignment\obj\Debug\net5.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mandhla\Downloads\final\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\Mandhla\Downloads\final\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfo.cs
+C:\Users\Mandhla\Downloads\final\Assignment\obj\Debug\net5.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Mandhla\Downloads\final\Assignment\obj\Debug\net5.0\Assignment.dll
+C:\Users\Mandhla\Downloads\final\Assignment\obj\Debug\net5.0\ref\Assignment.dll
+C:\Users\Mandhla\Downloads\final\Assignment\obj\Debug\net5.0\Assignment.pdb
+C:\Users\Mandhla\Downloads\final\Assignment\obj\Debug\net5.0\Assignment.genruntimeconfig.cache
+C:\Users\Sipho Matshazi\OneDrive - Private Property South Africa (Pty) Ltd\Desktop\Assignment-main\bin\Debug\net5.0\Assignment.exe
+C:\Users\Sipho Matshazi\OneDrive - Private Property South Africa (Pty) Ltd\Desktop\Assignment-main\bin\Debug\net5.0\Assignment.deps.json
+C:\Users\Sipho Matshazi\OneDrive - Private Property South Africa (Pty) Ltd\Desktop\Assignment-main\bin\Debug\net5.0\Assignment.runtimeconfig.json
+C:\Users\Sipho Matshazi\OneDrive - Private Property South Africa (Pty) Ltd\Desktop\Assignment-main\bin\Debug\net5.0\Assignment.runtimeconfig.dev.json
+C:\Users\Sipho Matshazi\OneDrive - Private Property South Africa (Pty) Ltd\Desktop\Assignment-main\bin\Debug\net5.0\Assignment.dll
+C:\Users\Sipho Matshazi\OneDrive - Private Property South Africa (Pty) Ltd\Desktop\Assignment-main\bin\Debug\net5.0\ref\Assignment.dll
+C:\Users\Sipho Matshazi\OneDrive - Private Property South Africa (Pty) Ltd\Desktop\Assignment-main\bin\Debug\net5.0\Assignment.pdb
+C:\Users\Sipho Matshazi\OneDrive - Private Property South Africa (Pty) Ltd\Desktop\Assignment-main\obj\Debug\net5.0\Assignment.csproj.AssemblyReference.cache
+C:\Users\Sipho Matshazi\OneDrive - Private Property South Africa (Pty) Ltd\Desktop\Assignment-main\obj\Debug\net5.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sipho Matshazi\OneDrive - Private Property South Africa (Pty) Ltd\Desktop\Assignment-main\obj\Debug\net5.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\Sipho Matshazi\OneDrive - Private Property South Africa (Pty) Ltd\Desktop\Assignment-main\obj\Debug\net5.0\Assignment.AssemblyInfo.cs
+C:\Users\Sipho Matshazi\OneDrive - Private Property South Africa (Pty) Ltd\Desktop\Assignment-main\obj\Debug\net5.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Sipho Matshazi\OneDrive - Private Property South Africa (Pty) Ltd\Desktop\Assignment-main\obj\Debug\net5.0\Assignment.dll
+C:\Users\Sipho Matshazi\OneDrive - Private Property South Africa (Pty) Ltd\Desktop\Assignment-main\obj\Debug\net5.0\ref\Assignment.dll
+C:\Users\Sipho Matshazi\OneDrive - Private Property South Africa (Pty) Ltd\Desktop\Assignment-main\obj\Debug\net5.0\Assignment.pdb
+C:\Users\Sipho Matshazi\OneDrive - Private Property South Africa (Pty) Ltd\Desktop\Assignment-main\obj\Debug\net5.0\Assignment.genruntimeconfig.cache
