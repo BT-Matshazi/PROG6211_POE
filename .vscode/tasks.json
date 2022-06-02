@@ -1,0 +1,41 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/ST10090504_PROG6221_2022_POE Part 2_Gr4_Bekithemba_Matshazi/Assignment.csproj",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "publish",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "publish",
+                "${workspaceFolder}/ST10090504_PROG6221_2022_POE Part 2_Gr4_Bekithemba_Matshazi/Assignment.csproj",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "watch",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "watch",
+                "run",
+                "--project",
+                "${workspaceFolder}/ST10090504_PROG6221_2022_POE Part 2_Gr4_Bekithemba_Matshazi/Assignment.csproj"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}

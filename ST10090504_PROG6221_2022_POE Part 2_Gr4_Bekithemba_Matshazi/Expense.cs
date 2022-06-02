@@ -49,9 +49,9 @@ namespace Assignment
         public override void Home(double income)
         {
             
-            Console.Write("Please choose between the following: (1)-Renting a house or (2)-Buy a house:  ");
+            Console.Write("\nPlease choose between the following: (1)-Renting a house or (2)-Buy a house:  ");
             double choice = c.ControlChoice(Console.ReadLine());
-
+            Console.Write("****************************************************");
             //rent path
             if (choice == 1)
             {
@@ -59,6 +59,7 @@ namespace Assignment
                 double houseRent = Convert.ToDouble(Console.ReadLine());
                 housingCost = houseRent;
                 ExpenseList.Add("Rent", housingCost);
+                Console.Write("****************************************************");
             }
 
             //homeloan path
@@ -78,6 +79,7 @@ namespace Assignment
                     Console.Write("Please enter the number of months for repayment ***between*** 240 and 360: ");
                     repaymentPeriod = c.ControlPrompt(Console.ReadLine());
                 }
+                Console.Write("****************************************************");
 
                 //Home loan calculation
                 double P = housePrice - houseDeposit;
