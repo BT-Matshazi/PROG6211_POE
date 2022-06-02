@@ -110,3 +110,19 @@ C:\Users\bekit\Desktop\ST10090504_PROG6221_2022_POE Part 2_Gr4_Bekithemba_Matsha
 C:\Users\bekit\Desktop\ST10090504_PROG6221_2022_POE Part 2_Gr4_Bekithemba_Matshazi\obj\Debug\net5.0\Assignment.pdb
 C:\Users\bekit\Desktop\ST10090504_PROG6221_2022_POE Part 2_Gr4_Bekithemba_Matshazi\obj\Debug\net5.0\Assignment.genruntimeconfig.cache
 C:\Users\bekit\Desktop\ST10090504_PROG6221_2022_POE Part 2_Gr4_Bekithemba_Matshazi\obj\Debug\net5.0\ref\Assignment.dll
+C:\Users\bekit\Documents\git repo\PROG6211_POE\ST10090504_PROG6221_2022_POE Part 2_Gr4_Bekithemba_Matshazi\bin\Debug\net5.0\Assignment.exe
+C:\Users\bekit\Documents\git repo\PROG6211_POE\ST10090504_PROG6221_2022_POE Part 2_Gr4_Bekithemba_Matshazi\bin\Debug\net5.0\Assignment.deps.json
+C:\Users\bekit\Documents\git repo\PROG6211_POE\ST10090504_PROG6221_2022_POE Part 2_Gr4_Bekithemba_Matshazi\bin\Debug\net5.0\Assignment.runtimeconfig.json
+C:\Users\bekit\Documents\git repo\PROG6211_POE\ST10090504_PROG6221_2022_POE Part 2_Gr4_Bekithemba_Matshazi\bin\Debug\net5.0\Assignment.runtimeconfig.dev.json
+C:\Users\bekit\Documents\git repo\PROG6211_POE\ST10090504_PROG6221_2022_POE Part 2_Gr4_Bekithemba_Matshazi\bin\Debug\net5.0\Assignment.dll
+C:\Users\bekit\Documents\git repo\PROG6211_POE\ST10090504_PROG6221_2022_POE Part 2_Gr4_Bekithemba_Matshazi\bin\Debug\net5.0\Assignment.pdb
+C:\Users\bekit\Documents\git repo\PROG6211_POE\ST10090504_PROG6221_2022_POE Part 2_Gr4_Bekithemba_Matshazi\obj\Debug\net5.0\Assignment.csproj.AssemblyReference.cache
+C:\Users\bekit\Documents\git repo\PROG6211_POE\ST10090504_PROG6221_2022_POE Part 2_Gr4_Bekithemba_Matshazi\obj\Debug\net5.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bekit\Documents\git repo\PROG6211_POE\ST10090504_PROG6221_2022_POE Part 2_Gr4_Bekithemba_Matshazi\obj\Debug\net5.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\bekit\Documents\git repo\PROG6211_POE\ST10090504_PROG6221_2022_POE Part 2_Gr4_Bekithemba_Matshazi\obj\Debug\net5.0\Assignment.AssemblyInfo.cs
+C:\Users\bekit\Documents\git repo\PROG6211_POE\ST10090504_PROG6221_2022_POE Part 2_Gr4_Bekithemba_Matshazi\obj\Debug\net5.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\bekit\Documents\git repo\PROG6211_POE\ST10090504_PROG6221_2022_POE Part 2_Gr4_Bekithemba_Matshazi\obj\Debug\net5.0\Assignment.dll
+C:\Users\bekit\Documents\git repo\PROG6211_POE\ST10090504_PROG6221_2022_POE Part 2_Gr4_Bekithemba_Matshazi\obj\Debug\net5.0\refint\Assignment.dll
+C:\Users\bekit\Documents\git repo\PROG6211_POE\ST10090504_PROG6221_2022_POE Part 2_Gr4_Bekithemba_Matshazi\obj\Debug\net5.0\Assignment.pdb
+C:\Users\bekit\Documents\git repo\PROG6211_POE\ST10090504_PROG6221_2022_POE Part 2_Gr4_Bekithemba_Matshazi\obj\Debug\net5.0\Assignment.genruntimeconfig.cache
+C:\Users\bekit\Documents\git repo\PROG6211_POE\ST10090504_PROG6221_2022_POE Part 2_Gr4_Bekithemba_Matshazi\obj\Debug\net5.0\ref\Assignment.dll

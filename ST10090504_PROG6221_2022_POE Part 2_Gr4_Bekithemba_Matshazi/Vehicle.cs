@@ -16,8 +16,8 @@ namespace Assignment
             //rent path
             if(choice == 1)
             {
-                Console.Write("Please enter the vehicle information");
-                Console.Write("*********************************************");
+                Console.WriteLine("Please enter the vehicle information");
+                Console.WriteLine("*********************************************");
 
                 Console.Write("Please enter the Model and make: ");
                 string vehicletModelandMake = Console.ReadLine();

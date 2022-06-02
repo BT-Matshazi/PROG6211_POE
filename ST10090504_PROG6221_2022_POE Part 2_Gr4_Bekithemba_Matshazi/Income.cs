@@ -13,8 +13,8 @@ namespace Assignment
         //method to prompt user for income information
         public void UserIncome()
         {            
-            Console.Write("Please enter your income information");
-            Console.Write("****************************************************");
+            Console.WriteLine("Please enter your income information");
+            Console.WriteLine("****************************************************");
             
             Console.Write("Please enter your gross income before deductions: R");
             this.grossIncome = c.Control(Console.ReadLine());
