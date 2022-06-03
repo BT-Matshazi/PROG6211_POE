@@ -39,7 +39,7 @@ namespace Assignment
             while(string.IsNullOrEmpty(input)  || Double.TryParse(input, out double num)== false)
             {
                 Console.Write("***Value can not be blank  or a letter***");
-                Console.Write("  Please enter a interger value: ");
+                Console.Write("  Please enter a integer value: ");
                 input = Console.ReadLine();
             }
             

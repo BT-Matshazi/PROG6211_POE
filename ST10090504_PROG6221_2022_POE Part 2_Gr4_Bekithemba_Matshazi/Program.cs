@@ -17,7 +17,7 @@ namespace Assignment
 
             //calling methods in Expense class
             b.Expeses();
-            b.Home(a.getGrossIncome());
+            b.Home(a.getGrossIncome() - a.getTax());
 
             //Vehicle class access modifier
             Vehicle c = new Vehicle();

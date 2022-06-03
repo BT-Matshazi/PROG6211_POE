@@ -3,6 +3,8 @@ using System.Linq;
 using System.Collections;
 using System.Collections.Generic;
 
+
+//delegate declaration
 public delegate void Del(string message);
 
 namespace Assignment
@@ -65,7 +67,7 @@ namespace Assignment
                 double housePrice = c.ControlPrompt(Console.ReadLine());
                 Console.Write("Please enter the house deposit: R");
                 double houseDeposit = c.ControlPrompt(Console.ReadLine());
-                Console.Write("Please enter the intrest rate (Please do NOT add the '%' symbol): ");
+                Console.Write("Please enter the interest rate (Please do NOT add the '%' symbol): ");
                 double intrestRate = c.ControlPrompt(Console.ReadLine()) / 100;
                 Console.Write("Please enter the number of months for repayment between 240 and 360: ");
                 double repaymentPeriod = c.ControlPrompt(Console.ReadLine());
