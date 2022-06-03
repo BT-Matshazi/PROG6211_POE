@@ -26,9 +26,9 @@ namespace Assignment
             c.VehiclePurchase();
 
             //calling methods in Expense class
-            b.SortDictionary();
             b.ExpenseSum(a.getGrossIncome());
             b.netIncome(a.getGrossIncome(), a.getTax());
+            b.SortDictionary();
         }
     }
 }

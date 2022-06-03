@@ -14,12 +14,9 @@ namespace Assignment
 
         ErrorControl c = new ErrorControl();
 
-
-        //Array to store expenses
-        static double[] expenseArray = new double[6];
         static double housingCost;
 
-        //method to prompt user for expenses and store in array
+        //method to prompt user for expenses and store in dictionary
         public void Expeses()
         {
             Console.WriteLine("\n*********************************");
@@ -107,7 +104,7 @@ namespace Assignment
         {
             double sum = 0;
 
-            //loop to sum up the expenses array
+            //loop to sum up the expenses dictionary
             foreach (var x in ExpenseList)
             {
                 sum += x.Value;
