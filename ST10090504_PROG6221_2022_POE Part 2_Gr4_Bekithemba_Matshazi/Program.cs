@@ -32,3 +32,6 @@ namespace Assignment
         }
     }
 }
+
+//https://www.inforbiro.com/blog/c-check-if-string-is-double
+//https://www.w3schools.com/
